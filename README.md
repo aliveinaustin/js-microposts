@@ -37,8 +37,8 @@ npm run json:server
 Edit the api\db.json file
 
 ### Build
-Built app.bunble.js file is  placed into a new \build folder.
-To compile andc build the project: Using command line, type:
+Built app.bundle.js file is  placed into a new \build folder.
+To compile and build the project: Using command line, type:
 ```
 npm run build
 ```
